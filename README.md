@@ -28,3 +28,6 @@ vi .env.fabric
 See the deployment task in [Makefile](./Makefile)
 
 
+## Note
+
+When trying this sample at your own risk.
